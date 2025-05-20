@@ -16,7 +16,7 @@
 
 ## 📂 Featured Projects
 
-### [Online Classroom System](https://github.com/jubairkarnine/Online-Classroom-System)
+### [Online Classroom System](https://github.com/JubairKar9/Online-Classroom-System)
 > A PHP-MySQL based e-learning platform with student login, assignment uploads, and teacher dashboard.
 
 ### [Library Management System](https://github.com/jubairkarnine/Library-Management-System)
