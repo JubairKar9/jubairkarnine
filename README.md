@@ -19,13 +19,13 @@
 ### [Online Classroom System](https://github.com/JubairKar9/Online-Classroom-System)
 > A PHP-MySQL based e-learning platform with student login, assignment uploads, and teacher dashboard.
 
-### [Library Management System](https://github.com/jubairkarnine/Library-Management-System)
+### [Library Management System](https://github.com/JubairKar9/Library-Management-System)
 > Python & SQL-based project for cataloging books and managing check-ins/outs.
 
-### [Excel Automation – Sales Report Generator](https://github.com/jubairkarnine/Excel-Automation-Reports)
+### [Excel Automation – Sales Report Generator](https://github.com/JubairKar9/Excel-Automation-Reports)
 > Macro-enabled Excel file to auto-generate sales summaries with charts.
 
-### [Password-Based Security System](https://github.com/jubairkarnine/Password-Based-Security-System)
+### [Password-Based Security System](https://github.com/JubairKar9/Password-Based-Security-System)
 > Arduino-based security prototype using keypad and microcontroller.
 
 ---
